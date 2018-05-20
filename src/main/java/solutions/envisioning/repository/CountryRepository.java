@@ -39,7 +39,7 @@ public class CountryRepository {
 		final Country belarus = new Country();
 		belarus.setBrand("Marketplace");
 		belarus.setDomain("marketplace.com");
-		belarus.setName("Israel");
+		belarus.setName("Belarus");
 		belarus.setCategories(Arrays.asList(new String[] { "Wine", "Clothes" }));
 		return belarus;
 	}
