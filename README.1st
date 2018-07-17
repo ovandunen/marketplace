@@ -5,3 +5,4 @@ http://localhost:8080/country/?name=Spai
 The payment service returns a payment type if a valid country is given.
 E.g.
 http://localhost:8080/payment/?country=Spain
+Run the application by: mvn spring-boot:run
